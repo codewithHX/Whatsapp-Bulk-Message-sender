@@ -18,5 +18,5 @@ This application is meant for sending bulk messages through WhatsApp Web client 
 •Scan the QR code to login from the account you want to send messages.<br />
 •Wait for some time and your messages will be sent to desired contacts.<br />
 <br />
-If you face any problem feel free ask.✌️
+If you face any problem, feel free ask.✌️
 
