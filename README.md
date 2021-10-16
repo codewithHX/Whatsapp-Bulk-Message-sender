@@ -1,5 +1,5 @@
 # Whatsapp-Bulk-Message-sender
-Send bulk messages right from your WhatsApp Web.
+Send bulk messages right from your WhatsApp Web Without saving any contacts.
 
 This application is meant for sending bulk messages through WhatsApp Web client on Chrome Web Browser.
 
